@@ -1,0 +1,29 @@
+{ 
+    "metadata":{
+        "timestamp_utc":"2022-01-04 10:25:30",
+        "music":[
+            {
+                "db_begin_time_offset_ms":0,
+                "db_end_time_offset_ms":9700,
+                "sample_end_time_offset_ms":9700,
+                "play_offset_ms":9980,
+                "result_from":3,
+                "title":"Let The Music Play",
+                "external_metadata":{},
+                "acrid":"dfe94b903390c5bd4fc3947c0affe7f6",
+                "external_ids":{},
+                "release_date":"2000-01-01",
+                "duration_ms":375427,
+                "artists":[{"name":"Barry White"}],
+                "genres":[{"name":"Pop"}],
+                "sample_begin_time_offset_ms":0,
+                "album":{"name":"The Ultimate Collection"},
+                "score":100,
+                "label":"Universal Music"
+            }
+        ]
+    },
+    "result_type":0,
+    "cost_time":0.023000001907349,
+    "status":{"code":0,"version":"1.0","msg":"Success"}
+}
