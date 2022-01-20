@@ -12,7 +12,8 @@ https://mutagen.readthedocs.io/en/latest/user/id3.html
 
 # Istruzioni
 
-Attivare un account su acrcloud.
+Attivare un account su acrcloud.com
+
 Aggiungere alla dashboard un progetto di decodifica audio (free per 14 giorni)
 https://console.acrcloud.com/avr?region=eu-west-1#/projects/online
 
