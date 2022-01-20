@@ -18,6 +18,9 @@ Aggiungere alla dashboard un progetto di decodifica audio (free per 14 giorni)
 https://console.acrcloud.com/avr?region=eu-west-1#/projects/online
 
 Inserire i brani nella sotto cartella ./mp3
-Lancia python3 .\decode.py
+
+Lanciare
+
+python3 .\decode.py
 
 I file decodificati vengono taggati e rinominati sul posto (usare una copia, non si sa mai)
